@@ -11,6 +11,8 @@ Application web full-stack pour la gestion des clients et véhicules d'un garage
 
 ## 🚀 Installation
 
+### Frontend
+
 ### Backend
 ```bash
 npm install
